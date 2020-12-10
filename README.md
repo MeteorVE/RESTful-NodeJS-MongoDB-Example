@@ -260,7 +260,6 @@ https://mvform.herokuapp.com/
 
 
 以下是 GIF 展示，在錄製之前 DB 即有一條資料，故第一 turn 新增兩支跑出三支。
-https://i.imgur.com/cHPh2SD.gif
 
 ![https://i.imgur.com/cHPh2SD.gif](https://i.imgur.com/cHPh2SD.gif)
 
